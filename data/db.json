@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "TodoList": 3,
+    "Todo": 2
+  },
+  "models": {
+    "TodoList": {
+      "1": "{\"title\":\"grocery list\",\"id\":1}",
+      "2": "{\"title\":\"grocery list\",\"id\":2}"
+    },
+    "Todo": {
+      "1": "{\"title\":\"get eggs\",\"isComplete\":false,\"todoListId\":2,\"id\":1}"
+    }
+  }
+}
